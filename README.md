@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  Catalog of 6 custom styled micro-interaction buttons.
+  name: css-button-animations version: 1.0 type: Repository author: VarshuAi description: >   Catalog of 6 custom styled micro-interaction buttons. primary_tech: CSS
 primary_tech: CSS
 ```
 
